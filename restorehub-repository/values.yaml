@@ -1,0 +1,3 @@
+repoName: default
+sshPath: /var/www
+sshKey: "xxx777yyy"
