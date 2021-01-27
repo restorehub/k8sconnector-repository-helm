@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  restorehub-repository:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-27T23:06:20.524707+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 55b1deb2c7dc08660f2b7ab0058aae4bfc67597d04108018d1ec05ddf25d6f80
+    name: restorehub-repository
+    type: application
+    urls:
+    - https://restorehub.github.io/k8sconnector-repository-helm/restorehub-repository-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-27T23:06:20.499065+01:00"
