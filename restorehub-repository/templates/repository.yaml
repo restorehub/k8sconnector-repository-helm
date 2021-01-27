@@ -1,7 +1,7 @@
 apiVersion: k8s.restorehub.co/v1beta2
 kind: Repository
 metadata:
-  name: {{ .Values.repoName }}-repository-restorehub
+  name: rhub-repository-{{ .Values.repoName }}
 spec:
   sshPath: {{ .Values.sshPath }}
   repoName: {{ .Values.repoName }}
